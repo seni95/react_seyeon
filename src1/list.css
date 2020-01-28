@@ -1,0 +1,15 @@
+.applicants_img{
+    /* float:left; */
+    width:30%;
+    display: inline-block;
+}
+
+.show_info{
+    background-color: gray;
+    display: none;
+    float:right;
+    width:70%;
+    /* height:500px; */
+    /* visibility: hidden; */
+    /* width:100%; */
+}
